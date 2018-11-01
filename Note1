@@ -1,0 +1,12 @@
+决策树的概念
+最简单的决策树
+Does house has more than 2 bedrooms?
+Yes: higher price     No: lower Price
+
+We use data to decide how to break the houses into two groups, and then again to determine the predicted price in each group. 
+This step of capturing patterns from data is called fitting or training the model. 
+The data used to fit the model is called the training data.
+
+
+
+Explore your data:
